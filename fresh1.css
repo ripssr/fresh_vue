@@ -1,0 +1,11 @@
+.static {
+    background: blue;
+}
+
+.active {
+    color: bisque;
+}
+
+.text-danger {
+    color: red;
+}

@@ -1,0 +1,39 @@
+body, html {
+  font-family: monospace;
+}
+
+#app1 {
+  background: radial-gradient(at left top, rgba(228, 128, 0, .3), rgba(240, 240, 240, .4));;
+}
+
+#app1 h2 {
+  background: linear-gradient(to right top, rgba(128, 128, 128, .5), rgba(210, 240, 200, .4));
+  padding: 10px;
+  text-align: center;
+  font-size: 1.5em;
+  font-weight: 800;
+}
+
+#app1 input {
+  width: 70%;
+  margin: 10px 10%;
+  margin-left: 15%;
+  padding: 5px;
+  border-radius: 5px;
+  background-color: rgba(255, 255, 255, .5);
+}
+
+#hook {
+  color: black;
+  font-size: 13px;
+  text-shadow: 1px 1px 1px white;
+  padding: 5px;
+  border-radius: 5px
+}
+
+.sex {
+  background-color: bisque;
+  padding: 5px;
+  border-radius: 10px;
+  border: 2px solid lightgrey;
+}
